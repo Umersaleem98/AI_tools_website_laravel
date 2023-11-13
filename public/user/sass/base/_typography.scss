@@ -1,0 +1,10 @@
+.heading-primary {
+    font-family: 'Poppins';
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 0;
+
+    @media (max-width: 573px) {
+        font-size: 36px;
+    }
+}
